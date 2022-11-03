@@ -1,1 +1,6 @@
 # School_District_Analysis
+In this student data challenge, eight different attributes were obtained from the attached csv, and these attributes were organized in a meaningful way to present and compare data. 
+
+First, all the missing data and duplicated data were removed in order to prevent skewed data leading to incorrect calculation and misrepresentation of the data. Then we can proceed to perform further statistical analysis like count, mean, std, min, max, and others on the attributes to gain some basic insights into the dataset (grade levels, math scores, school types, and others). Finally the "groupby" functions allows us to group the actual terms inside the attributes, such as public vs charter in school types, or 9 to 12 in the grade levels. After data is grouped, we can further analyze data into statistical functions such as mean, count, max, etc. 
+
+To improve on the data representation, we can utilize graphs or other figures. For example, we can view the distribution of students in different high schools by using a bar chart to display all school names with the number of students. Similarly, a pie chart can be used to display the percentage of students getting different math scores in a grade level.
